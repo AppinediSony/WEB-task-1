@@ -23,3 +23,15 @@ This is a simple and responsive landing page built using **HTML** and **CSS**.
 ## Responsive View
 The page automatically adjusts for different screen sizes using CSS media queries.
 
+## Outcomes
+
+Understood the page structure (header, hero, footer) without running it
+
+Demonstrated responsive design principles using media queries
+
+Shows practical use of Flexbox for layout
+
+Footer clearly displays social links with unique styling
+
+
+
